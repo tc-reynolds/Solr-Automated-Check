@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: application/xml; charset=UTF-8
+Transfer-Encoding: chunked
+
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+<lst name="responseHeader"><int name="status">0</int><int name="QTime">26</int></lst><str name="defaultCoreName">collection1</str><lst name="initFailures"/><lst name="status"><lst name="collection1"><str name="name">collection1</str><bool name="isDefaultCore">true</bool><str name="instanceDir">/opt/solr/solr-4.7.2/example/solr/collection1/</str><str name="dataDir">/opt/solr/solr-4.7.2/example/solr/collection1/data/</str><str name="config">solrconfig.xml</str><str name="schema">schema.xml</str><date name="startTime">2020-05-22T09:39:22.156Z</date><long name="uptime">102312538</long><lst name="index"><int name="numDocs">70940940</int><int name="maxDoc">90251631</int><int name="deletedDocs">19310691</int><long name="indexHeapUsageBytes">5414909928</long><long name="version">44069713</long><int name="segmentCount">118</int><bool name="current">true</bool><bool name="hasDeletions">true</bool><str name="directory">org.apache.lucene.store.NRTCachingDirectory:NRTCachingDirectory(MMapDirectory@/opt/solr/solr-4.7.2/example/solr/collection1/data/index.20200505040351814 lockFactory=NativeFSLockFactory@/opt/solr/solr-4.7.2/example/solr/collection1/data/index.20200505040351814; maxCacheMB=48.0 maxMergeSizeMB=4.0)</str><lst name="userData"><str name="commitTimeMSec">1590225643357</str></lst><date name="lastModified">2020-05-23T09:20:43.357Z</date><long name="sizeInBytes">506177331663</long><str name="size">471.41 GB</str></lst></lst></lst>
+</response>

@@ -1,0 +1,8 @@
+
+Reboot issued for: ps01. Timestamp: Mon Aug 31 05:43:48 EDT 2020
+Reboot issued for: ps02. Timestamp: Mon Aug 31 05:43:48 EDT 2020
+Reboot issued for: ps03. Timestamp: Mon Aug 31 05:44:48 EDT 2020
+Reboot issued for: ps04. Timestamp: Mon Aug 31 05:44:49 EDT 2020
+Reboot issued for: ps05. Timestamp: Mon Aug 31 05:45:49 EDT 2020
+Reboot issued for: ps06. Timestamp: Mon Aug 31 05:45:49 EDT 2020
+Reboot issued for: pa01. Timestamp: Mon Aug 31 05:46:50 EDT 2020

@@ -1,0 +1,16 @@
+{"znode":{
+    "path":"/clusterstate.json","prop":{
+      "version":708961,
+      "aversion":0,
+      "children_count":0,
+      "ctime":"Fri Aug 01 10:46:39 EDT 2014 (1406904399083)",
+      "cversion":0,
+      "czxid":20,
+      "ephemeralOwner":0,
+      "mtime":"Mon Aug 31 05:46:46 EDT 2020 (1598867206896)",
+      "mzxid":1503238553718,
+      "pzxid":20,
+      "dataLength":1514},
+    "data":{"collection1":{    "shards":{      "shard1":{        "range":"80000000-ffffffff",        "state":"active",        "replicas":{          "core_node1":{            "state":"down",            "base_url":"http://10.135.5.219:8983/solr",            "core":"collection1",            "node_name":"10.135.5.219:8983_solr"},          "core_node3":{            "state":"down",            "base_url":"http://10.135.5.108:8983/solr",            "core":"collection1",            "node_name":"10.135.5.108:8983_solr"},          "core_node5":{            "state":"active",            "base_url":"http://10.135.5.91:8983/solr",            "core":"collection1",            "node_name":"10.135.5.91:8983_solr"}}},      "shard2":{        "range":"0-7fffffff",        "state":"active",        "replicas":{          "core_node2":{            "state":"down",            "base_url":"http://10.135.5.81:8983/solr",            "core":"collection1",            "node_name":"10.135.5.81:8983_solr"},          "core_node4":{            "state":"down",            "base_url":"http://10.135.5.11:8983/solr",            "core":"collection1",            "node_name":"10.135.5.11:8983_solr"},          "core_node6":{            "state":"active",            "base_url":"http://10.135.5.195:8983/solr",            "core":"collection1",            "node_name":"10.135.5.195:8983_solr"}}}},    "maxShardsPerNode":"1",    "router":{"name":"compositeId"},    "replicationFactor":"1",    "autoCreated":"true"}}},"tree":[{"data":{
+        "title":"/clusterstate.json","attr":{
+          "href":"zookeeper?detail=true&path=%2Fclusterstate.json"}}}]}
